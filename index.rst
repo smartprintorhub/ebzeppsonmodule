@@ -1,9 +1,9 @@
 ##################
-Setting Up Your Product on a Wireless Network - Epson
+How to Set Up Your Product on a Wireless Network - Epson?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 976EEDB16D7FBECFFF12CAAD22317912
 
 .. image:: blank.png
       :width: 350px
